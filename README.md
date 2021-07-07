@@ -4,4 +4,4 @@
 ​* .gitignore file for NetBeans project
 * README.md - this file itself - using Markdown language
 
-### © 2021 Soicon | fb/doibuonlamnenkhongvui
+### © 2021 Soicon | fb/ChuChimChuych
